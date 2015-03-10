@@ -20,3 +20,21 @@
 
 - optimized loops in the ChangePizzaSizes function
 # project4
+
+# Screenshots of some of the changes made to main.js
+
+
+![Something](https://cloud.githubusercontent.com/assets/3928442/6568888/f9806022-c69c-11e4-92ed-f100b7af18f6.png)
+
+
+
+
+![alt tag](https://cloud.githubusercontent.com/assets/3928442/6568890/02636504-c69d-11e4-8183-1e720e4d48eb.png)
+
+
+
+
+![alt tag](https://cloud.githubusercontent.com/assets/3928442/6568892/06b23892-c69d-11e4-8b2b-4cd4641b71e7.png)
+
+
+![alt tag](https://cloud.githubusercontent.com/assets/3928442/6568889/fddb85ac-c69c-11e4-9c16-bf1ab9769ce7.png)
